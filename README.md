@@ -122,3 +122,7 @@ For support, questions, or to hand off more content (screenshots, exact installe
 ## 🎉 Enjoy Learning Bulgarian!
 
 Immerse yourself in the beautiful Bulgarian language with comprehensive lessons, native pronunciation, and interactive learning tools.
+
+
+
+THE APP CAN BE DOWNLOADED FROM https://bulgarche.pmg-silistra.com/ if the files dont work 
