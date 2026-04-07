@@ -1,0 +1,10 @@
+BULGARCHE - Bulgarian Language Learning Application
+Copyright (c) Bulgarche. All rights reserved.
+
+This software is provided for educational purposes. You may use this application
+for personal learning of the Bulgarian language.
+
+The application works offline and stores progress locally on your device.
+No registration or account is required.
+
+For more information, visit: http://bulgarche.com

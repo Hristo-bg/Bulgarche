@@ -1,0 +1,41 @@
+{
+  "name": "bulgarche-mobile",
+  "version": "4.0.0",
+  "description": "Bulgarche Language Learning App - Mobile Version",
+  "main": "main-mobile.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build-win": "electron-builder --win",
+    "build-all": "electron-builder --win --x64"
+  },
+  "build": {
+    "appId": "com.bulgarche.mobile",
+    "productName": "Bulgarche Mobile",
+    "directories": {
+      "output": "dist-mobile"
+    },
+    "files": [
+      "main-mobile.js",
+      "mobile-public/**/*",
+      "txt/**/*",
+      "audiofiles/**/*",
+      "icon/**/*",
+      "node_modules/**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "icon/bulgarche-icon.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  },
+  "devDependencies": {
+    "electron": "^40.6.0",
+    "electron-builder": "^26.8.1"
+  }
+}

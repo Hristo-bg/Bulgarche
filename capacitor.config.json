@@ -1,0 +1,6 @@
+{
+  "appId": "com.mypwa.app",
+  "appName": "My App",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}

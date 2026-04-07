@@ -1,0 +1,36 @@
+{
+  "name": "bulgarche-desktop",
+  "version": "4.0.0",
+  "description": "Bulgarche Language Learning App - Desktop Version",
+  "main": "main-electron.js",
+  "files": [
+    "main-electron.js",
+    "public/**/*",
+    "txt/**/*",
+    "audiofiles/**/*",
+    "icon/**/*"
+  ],
+  "scripts": {
+    "dev": "electron .",
+    "build": "electron-builder",
+    "preview": "electron .",
+    "desktop:compile": "electron-builder",
+    "desktop:installer": "iscc installation\\Bulgarche-Installer.iss",
+    "mobile:sync": "npx cap sync",
+    "mobile:open": "npx cap open android",
+    "mobile:build": "npm run mobile:sync && npx cap open android"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.0.0",
+    "@capacitor/core": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/android": "^5.0.0"
+  },
+  "buildConfig": "electron-builder.json",
+  "win": {
+    "target": "nsis",
+    "icon": "icon/bulgarche-icon.ico"
+  }
+}

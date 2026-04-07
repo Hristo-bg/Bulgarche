@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=yes, maximum-scale=5.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Bulgarche">
+    <meta name="theme-color" content="#4CAF50">
+    <meta name="description" content="Learn Bulgarian with Bulgarche - Interactive lessons, tests, audio pronunciation, and games.">
+    <title>Bulgarche - Learn Bulgarian / Научи Български</title>
+    <link rel="icon" type="image/png" href="./icon/bulgarche-icon.png">
+    <link rel="apple-touch-icon" href="./icon/bulgarche-icon.png">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="mobile-styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Disclaimer Screen -->
+        <div id="disclaimer-screen" class="screen active">
+            <div class="disclaimer-content">
+                <div class="mascot-bird disclaimer-puppet" style="font-size: 100px; animation: birdFlap 2s ease-in-out infinite;">🦜</div>
+                <h1>Bienvenue dans Bulgarche!</h1>
+                <h2>Добре дошли в Bulgarche!</h2>
+                <div class="mascot-speech-bubble" style="margin: 30px auto; max-width: 700px;">
+                    <div class="speech-content">
+                        <p class="greeting-fr" style="font-size: 24px;">Bonjour! Je suis Bulgarche, votre oiseau guide pour apprendre le bulgare!</p>
+                        <p class="greeting-bg" style="font-size: 24px;">Здравейте! Аз съм Българче, вашата птица водач за учене на български!</p>
+                    </div>
+                </div>
+                <div class="disclaimer-text">
+                    <p><strong>Avertissement / Предупреждение / Disclaimer:</strong></p>
+                    <p>Cette application est conçue pour vous aider à apprendre le bulgare. Le contenu est fourni à titre éducatif uniquement.</p>
+                    <p>Това приложение е създадено, за да ви помогне да научите български език. Съдържанието е предоставено само за образователни цели.</p>
+                    <p>This application is designed to help you learn Bulgarian. The content is provided for educational purposes only.</p>
+                    <p>L'application fonctionne hors ligne et vos progrès sont sauvegardés localement sur votre appareil.</p>
+                    <p>Приложението работи офлайн и вашият напредък се запазва локално на вашето устройство.</p>
+                    <p>Vous pouvez utiliser cette application sans aucune inscription ou connexion.</p>
+                    <p>Можете да използвате това приложение без никаква регистрация или връзка.</p>
+                    <p>You can use this application without any registration or login.</p>
+                    <p>The application works offline and your progress is saved locally on your device.</p>
+                </div>
+                <div class="button-group">
+                    <button id="accept-disclaimer" class="btn btn-primary">Accepter / Приемам</button>
+                    <label class="skip-checkbox">
+                        <input type="checkbox" id="skip-disclaimer-device">
+                        <span>Ne plus afficher sur cet appareil / Не показвай повече на това устройство</span>
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tutorial Screen -->
+        <div id="tutorial-screen" class="screen">
+            <div class="tutorial-content">
+                <div class="mascot-bird tutorial-puppet" style="font-size: 100px; animation: birdFlap 2s ease-in-out infinite;">🦜</div>
+                <h1>Tutoriel / Обучение</h1>
+                <div class="mascot-speech-bubble" style="margin: 30px auto; max-width: 600px;">
+                    <div class="speech-content">
+                        <p class="greeting-fr" style="font-size: 24px;">Salut! Je suis Bulgarche, votre oiseau guide! / Здравей! Аз съм Българче, вашата птица водач!</p>
+                        <p class="greeting-bg" style="font-size: 24px;">Je vais vous montrer comment utiliser cette application! / Ще ви покажа как да използвате това приложение!</p>
+                    </div>
+                </div>
+                <div class="tutorial-steps">
+                    <div class="tutorial-step active" data-step="1">
+                        <h3>1. Accueil / Начало</h3>
+                        <p>Sur la page d'accueil, vous verrez vos statistiques de progression.</p>
+                        <p>На началната страница ще видите вашата статистика за напредък.</p>
+                    </div>
+                    <div class="tutorial-step" data-step="2">
+                        <h3>2. Leçons / Уроци</h3>
+                        <p>Suivez le chemin coloré pour progresser dans les leçons. Marquez chaque leçon comme lue.</p>
+                        <p>Следвайте цветния път, за да напредвате в уроците. Маркирайте всеки урок като прочетен.</p>
+                    </div>
+                    <div class="tutorial-step" data-step="3">
+                        <h3>3. Tests / Тестове</h3>
+                        <p>Testez vos connaissances avec des quiz basés sur les leçons que vous avez étudiées.</p>
+                        <p>Тествайте знанията си с тестове, базирани на уроците, които сте изучавали.</p>
+                    </div>
+                    <div class="tutorial-step" data-step="4">
+                        <h3>4. Dictionnaire / Речник</h3>
+                        <p>Recherchez des mots et écoutez leur prononciation avec les fichiers audio.</p>
+                        <p>Търсете думи и слушайте тяхното произношение с аудио файловете.</p>
+                    </div>
+                    <div class="tutorial-step" data-step="5">
+                        <h3>5. Jeux / Игри</h3>
+                        <p>Apprenez en jouant! Les jeux vous aident à mémoriser le vocabulaire.</p>
+                        <p>Учете се играейки! Игрите ви помагат да запомните лексика.</p>
+                    </div>
+                </div>
+                <div class="tutorial-controls">
+                    <button id="prev-tutorial" class="btn btn-secondary" style="display:none;">Précédent / Предишен</button>
+                    <button id="next-tutorial" class="btn btn-primary">Suivant / Следващ</button>
+                    <button id="finish-tutorial" class="btn btn-primary" style="display:none;">Commencer / Започни</button>
+                </div>
+                <label class="skip-checkbox tutorial-skip">
+                    <input type="checkbox" id="skip-tutorial-device">
+                    <span>Ignorer le tutoriel / Пропусни обучението</span>
+                </label>
+            </div>
+        </div>
+
+        <!-- Main App -->
+        <div id="main-app" class="screen">
+            <!-- Mobile menu button (shown on small screens) -->
+            <button type="button" id="nav-menu-btn" class="nav-menu-btn" aria-label="Open menu / Отвори меню">
+                <span class="nav-menu-icon">☰</span>
+                <span class="nav-menu-text">Menu</span>
+            </button>
+            <!-- Overlay to close drawer when tapping outside -->
+            <div id="nav-overlay" class="nav-overlay" aria-hidden="true"></div>
+            <!-- Navigation (drawer on mobile) -->
+            <nav class="main-nav" id="main-nav">
+                <div class="nav-logo">
+                    <img src="./icon/bulgarche-icon.png" alt="Bulgarche" class="nav-icon">
+                    <span>Bulgarche</span>
+                </div>
+                <div class="nav-links">
+                    <button class="nav-link active" data-page="home" title="Accueil / Начало">
+                        <span class="nav-icon">🏠</span>
+                        <span class="nav-text">Accueil</span>
+                    </button>
+                    <button class="nav-link" data-page="lessons" title="Leçons / Уроци">
+                        <span class="nav-icon">📚</span>
+                        <span class="nav-text">Leçons</span>
+                    </button>
+                    <button class="nav-link" data-page="tests" title="Tests / Тестове">
+                        <span class="nav-icon">✏️</span>
+                        <span class="nav-text">Tests</span>
+                    </button>
+                    <button class="nav-link" data-page="dictionary" title="Dictionnaire / Речник">
+                        <span class="nav-icon">📖</span>
+                        <span class="nav-text">Dictionnaire</span>
+                    </button>
+                    <button class="nav-link" data-page="games" title="Jeux / Игри">
+                        <span class="nav-icon">🎮</span>
+                        <span class="nav-text">Jeux</span>
+                    </button>
+                    <button class="nav-link" data-page="achievements" title="Succès / Постижения">
+                        <span class="nav-icon">🏆</span>
+                        <span class="nav-text">Succès</span>
+                    </button>
+                    <button class="nav-link" data-page="profile" title="Profil / Профил">
+                        <span class="nav-icon">👤</span>
+                        <span class="nav-text">Profil</span>
+                    </button>
+                    <button class="nav-link" data-page="settings" title="Paramètres / Настройки">
+                        <span class="nav-icon">⚙️</span>
+                        <span class="nav-text">Paramètres</span>
+                    </button>
+                </div>
+            </nav>
+
+            <!-- Home Page -->
+            <div id="home-page" class="page active">
+                <div class="home-container">
+                    <div class="mascot-section">
+                        <div class="mascot-character" id="mascot-character">
+                            <div class="mascot-bird">🦜</div>
+                        </div>
+                        <div class="mascot-speech-bubble" id="mascot-speech">
+                            <div class="speech-content">
+                                <p class="greeting-fr">Bonjour! Je suis Bulgarche, votre guide d'apprentissage!</p>
+                                <p class="greeting-bg">Здравейте! Аз съм Българче, вашият водач в ученето!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="welcome-section">
+                        <h1>Bonjour, <span id="user-name">Étudiant</span>!</h1>
+                        <h2>Здравей, <span id="user-name-bg">Ученик</span>!</h2>
+                        <div class="streak-display" id="streak-display">
+                            <div class="streak-icon">🔥</div>
+                            <div class="streak-info">
+                                <div class="streak-label">Série actuelle / Текуща серия</div>
+                                <div class="streak-number" id="home-streak">0</div>
+                                <div class="streak-unit">jours / дни</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stats-section">
+                        <div class="stat-card">
+                            <div class="stat-icon">📚</div>
+                            <div class="stat-info">
+                                <h3>Leçons lues</h3>
+                                <p>Прочетени уроци</p>
+                                <div class="stat-number" id="lessons-read">0</div>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-icon">✏️</div>
+                            <div class="stat-info">
+                                <h3>Tests complétés</h3>
+                                <p>Завършени тестове</p>
+                                <div class="stat-number" id="tests-completed">0</div>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-icon">🎮</div>
+                            <div class="stat-info">
+                                <h3>Jeux joués</h3>
+                                <p>Изиграни игри</p>
+                                <div class="stat-number" id="games-played">0</div>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-icon">⭐</div>
+                            <div class="stat-info">
+                                <h3>Score total</h3>
+                                <p>Общ резултат</p>
+                                <div class="stat-number" id="total-score">0</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="quick-actions">
+                        <div class="quick-action-card clickable" data-action="lessons">
+                            <div class="quick-action-icon">📖</div>
+                            <div class="quick-action-title">Continuer les leçons</div>
+                            <p>Продължи уроците</p>
+                        </div>
+                        <div class="quick-action-card clickable" data-action="dictionary">
+                            <div class="quick-action-icon">🔍</div>
+                            <div class="quick-action-title">Rechercher un mot</div>
+                            <p>Търси дума</p>
+                        </div>
+                        <div class="quick-action-card clickable" data-action="games">
+                            <div class="quick-action-icon">🎯</div>
+                            <div class="quick-action-title">Jouer un jeu</div>
+                            <p>Играй игра</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lessons Page -->
+            <div id="lessons-page" class="page">
+                <div class="lessons-container">
+                    <h1>Leçons / Уроци</h1>
+                    <div id="lessons-path" class="lessons-path"></div>
+                </div>
+            </div>
+
+            <!-- Lesson Detail Modal -->
+            <div id="lesson-modal" class="modal">
+                <div class="modal-content lesson-modal-content">
+                    <span class="close-modal">&times;</span>
+                    <h2 id="lesson-modal-title"></h2>
+                    <div class="progress-container">
+                        <div class="progress-label">Progression de la leçon / Прогрес на урока</div>
+                        <div class="progress-bar-container">
+                            <div class="progress-bar-fill" id="lesson-progress-bar" style="width: 0%;">0%</div>
+                        </div>
+                    </div>
+                    <div class="modal-scroll-inner">
+                        <div class="lesson-content">
+                            <div class="lesson-section">
+                                <h3>Български:</h3>
+                                <p id="lesson-bulgarian"></p>
+                            </div>
+                            <div class="lesson-section">
+                                <h3>Français:</h3>
+                                <p id="lesson-french"></p>
+                            </div>
+                        </div>
+                        <label class="lesson-checkbox">
+                            <input type="checkbox" id="lesson-read-checkbox">
+                            <span>Marquer comme lu / Маркирай като прочетено</span>
+                        </label>
+                        <div class="lesson-actions">
+                            <button id="lesson-prev" class="btn btn-secondary">← Précédent / Предишен</button>
+                            <button id="lesson-next" class="btn btn-primary">Suivant / Следващ →</button>
+                            <button id="go-to-tests" class="btn btn-accent">Aller aux tests / Към тестовете</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tests Page -->
+            <div id="tests-page" class="page">
+                <div class="tests-container">
+                    <h1>Tests / Тестове</h1>
+                    <div id="tests-list" class="tests-list"></div>
+                </div>
+            </div>
+
+            <!-- Test Detail Modal -->
+            <div id="test-modal" class="modal">
+                <div class="modal-content test-modal-content">
+                    <span class="close-modal">&times;</span>
+                    <h2 id="test-modal-title"></h2>
+                    <div id="test-questions"></div>
+                    <div class="test-actions">
+                        <button id="submit-test" class="btn btn-primary">Soumettre / Изпрати</button>
+                        <div id="test-result" class="test-result"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Dictionary Page -->
+            <div id="dictionary-page" class="page">
+                <div class="dictionary-container">
+                    <h1>Dictionnaire / Речник</h1>
+                    <div class="search-box">
+                        <input type="text" id="dictionary-search" placeholder="Rechercher un mot / Търси дума (Laissez vide pour voir tous les mots / Оставете празно за всички думи)">
+                        <button id="search-btn" class="btn btn-primary">🔍</button>
+                        <button id="show-all-btn" class="btn btn-secondary">Tous / Всички</button>
+                    </div>
+                    <div id="dictionary-results" class="dictionary-results"></div>
+                </div>
+            </div>
+
+            <!-- Games Page -->
+            <div id="games-page" class="page">
+                <div class="games-container">
+                    <h1>Jeux / Игри</h1>
+                    <div class="games-grid">
+                        <div class="game-card" data-game="match">
+                            <div class="game-icon">🎯</div>
+                            <h3>Match des mots</h3>
+                            <p>Съвпадане на думи</p>
+                            <p class="game-desc">Associez les mots bulgares avec leurs traductions françaises</p>
+                        </div>
+                        <div class="game-card" data-game="flashcards">
+                            <div class="game-icon">🃏</div>
+                            <h3>Cartes mémoire</h3>
+                            <p>Карти за памет</p>
+                            <p class="game-desc">Mémorisez le vocabulaire avec des cartes flash</p>
+                        </div>
+                        <div class="game-card" data-game="wordsearch">
+                            <div class="game-icon">🔍</div>
+                            <h3>Mots cachés</h3>
+                            <p>Скрити думи</p>
+                            <p class="game-desc">Trouvez les mots bulgares dans la grille</p>
+                        </div>
+                        <div class="game-card" data-game="typing">
+                            <div class="game-icon">⌨️</div>
+                            <h3>Frappe rapide</h3>
+                            <p>Бързо писане</p>
+                            <p class="game-desc">Tapez les mots bulgares le plus rapidement possible</p>
+                        </div>
+                        <div class="game-card" data-game="alphabet">
+                            <div class="game-icon">🔤</div>
+                            <h3>Alphabet Bulgare</h3>
+                            <p>Българска азбука</p>
+                            <p class="game-desc">Rangez l'alphabet bulgare dans l'ordre</p>
+                        </div>
+                        <div class="game-card" data-game="multiplechoice">
+                            <div class="game-icon">❓</div>
+                            <h3>Choix multiples</h3>
+                            <p>Множествен избор</p>
+                            <p class="game-desc">Choisissez la bonne traduction</p>
+                        </div>
+                        <div class="game-card" data-game="hangman">
+                            <div class="game-icon">🎭</div>
+                            <h3>Pendu</h3>
+                            <p>Бесеница</p>
+                            <p class="game-desc">Devinez le mot avant qu'il ne soit trop tard!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Game Modal -->
+            <div id="game-modal" class="modal">
+                <div class="modal-content game-modal-content">
+                    <span class="close-modal">&times;</span>
+                    <div id="game-area"></div>
+                </div>
+            </div>
+
+            <!-- Settings Page -->
+            <div id="settings-page" class="page">
+                <div class="settings-container">
+                    <h1>Paramètres / Настройки</h1>
+                    <div class="settings-section">
+                        <h3>Nom d'utilisateur / Потребителско име</h3>
+                        <input type="text" id="settings-username" placeholder="Votre nom / Вашето име">
+                        <button id="save-username" class="btn btn-primary">Enregistrer / Запази</button>
+                    </div>
+                    <div class="settings-section">
+                        <h3>Taille de police / Размер на шрифта</h3>
+                        <div class="font-size-control">
+                            <input type="range" id="font-size-slider" min="0.8" max="2.0" step="0.1" value="1.0">
+                            <div class="font-size-display">
+                                <span id="font-size-value">100%</span>
+                                <button id="apply-font-size" class="btn btn-primary">Appliquer / Приложи</button>
+                                <button id="reset-font-size" class="btn btn-secondary">Réinitialiser / Нулиране</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="settings-section">
+                        <h3>Thème / Тема</h3>
+                        <div class="theme-options">
+                            <button class="theme-btn active" data-theme="light">
+                                <span>☀️</span> Clair / Светъл
+                            </button>
+                            <button class="theme-btn" data-theme="dark">
+                                <span>🌙</span> Sombre / Тъмен
+                            </button>
+                            <button class="theme-btn" data-theme="colorful">
+                                <span>🌈</span> Coloré / Цветен
+                            </button>
+                            <button class="theme-btn" data-theme="ocean">
+                                <span>🌊</span> Océan / Океан
+                            </button>
+                            <button class="theme-btn" data-theme="forest">
+                                <span>🌲</span> Forêt / Гора
+                            </button>
+                            <button class="theme-btn" data-theme="sunset">
+                                <span>🌅</span> Coucher de soleil / Залез
+                            </button>
+                            <button class="theme-btn" data-theme="purple">
+                                <span>💜</span> Violet / Лилав
+                            </button>
+                        </div>
+                    </div>
+                    <div class="settings-section">
+                        <h3>Tutoriel / Обучение</h3>
+                        <button id="show-tutorial" class="btn btn-secondary">Voir le tutoriel / Преглед на обучението</button>
+                    </div>
+                    <div class="settings-section">
+                        <h3>Réinitialiser les données / Нулиране на данните</h3>
+                        <button id="reset-data" class="btn btn-danger">Réinitialiser / Нулирай</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Achievements Page -->
+            <div id="achievements-page" class="page">
+                <div class="achievements-container">
+                    <h1>Succès / Постижения</h1>
+                    <div class="achievements-stats">
+                        <div class="achievement-stat">
+                            <div class="achievement-icon">🏆</div>
+                            <div class="achievement-info">
+                                <h3>Total des succès</h3>
+                                <p>Общо постижения</p>
+                                <div class="achievement-number" id="total-achievements">0</div>
+                            </div>
+                        </div>
+                        <div class="achievement-stat">
+                            <div class="achievement-icon">⭐</div>
+                            <div class="achievement-info">
+                                <h3>Points de succès</h3>
+                                <p>Точки постижения</p>
+                                <div class="achievement-number" id="achievement-points">0</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="achievements-grid" id="achievements-list"></div>
+                </div>
+            </div>
+
+            <!-- Profile Page -->
+            <div id="profile-page" class="page">
+                <div class="profile-container">
+                    <h1>Profil / Профил</h1>
+                    <div class="profile-header">
+                        <div class="profile-avatar">
+                            <div class="avatar-placeholder">👤</div>
+                            <button class="change-avatar-btn">Changer / Промени</button>
+                        </div>
+                        <div class="profile-info">
+                            <h2 id="profile-display-name">Étudiant</h2>
+                            <p id="profile-display-name-bg">Ученик</p>
+                            <div class="profile-level">
+                                <span>Niveau / Ниво: </span>
+                                <span id="user-level">1</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="profile-stats">
+                        <div class="profile-stat">
+                            <h3>Statistiques / Статистика</h3>
+                            <div class="stat-item">
+                                <span>Leçons complétées / Завършени уроци:</span>
+                                <span id="profile-lessons-completed">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span>Tests réussis / Успешни тестове:</span>
+                                <span id="profile-tests-passed">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span>Jeux joués / Изиграни игри:</span>
+                                <span id="profile-games-played">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span>Série actuelle / Текуща серия:</span>
+                                <span id="profile-current-streak">0 jours / дни</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="profile-settings">
+                        <h3>Paramètres du profil / Настройки на профила</h3>
+                        <div class="profile-form">
+                            <div class="form-group">
+                                <label>Nom / Име:</label>
+                                <input type="text" id="profile-name-input" placeholder="Votre nom / Вашето име">
+                            </div>
+                            <div class="form-group">
+                                <label>Nom (bulgare) / Име (български):</label>
+                                <input type="text" id="profile-name-bg-input" placeholder="Вашето име на български">
+                            </div>
+                            <div class="form-group">
+                                <label>Langue préférée / Предпочитан език:</label>
+                                <select id="profile-language">
+                                    <option value="both">Français + Български</option>
+                                    <option value="fr">Français seulement</option>
+                                    <option value="bg">Български само</option>
+                                </select>
+                            </div>
+                            <button id="save-profile" class="btn btn-primary">Sauvegarder / Запази</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="data-loader.js"></script>
+<script src="audio-manager.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<widget id="com.bulgarche.app" version="4.0.0" xmlns="http://www.w3.org/ns/widgets"> 
+    <name>Bulgarche</name> 
+    <description>Bulgarian-French Language Learning App</description> 
+    <author email="dev@bulgarche.com">Bulgarche Team</author> 
+    <content src="index.html" /> 
+    <preference name="SplashScreen" value="screen" /> 
+    <preference name="SplashScreenDelay" value="3000" /> 
+</widget> 

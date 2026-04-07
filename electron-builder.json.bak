@@ -1,0 +1,42 @@
+{
+  "appId": "com.bulgarche.desktop",
+  "productName": "Bulgarche Desktop",
+  "directories": {
+    "output": "dist-desktop"
+  },
+  "files": [
+    "main-electron.js",
+    "package.json",
+    "public/**/*",
+    "audiofiles/**/*",
+    "txt/**/*",
+    "icon/**/*"
+  ],
+  "extraResources": [
+    {
+      "from": "audiofiles",
+      "to": "audiofiles"
+    },
+    {
+      "from": "txt",
+      "to": "txt"
+    }
+  ],
+  "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": ["x64", "arm64"]
+      }
+    ],
+    "icon": "icon/bulgarche-icon.ico",
+    "requestedExecutionLevel": "asInvoker"
+  },
+  "nsis": {
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "allowElevation": false
+  }
+}

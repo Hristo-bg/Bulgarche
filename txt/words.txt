@@ -1,0 +1,976 @@
+дом – noun – жилище – maison – lieu où l'on habite
+
+стая – noun – част от къща – chambre – une pièce de la maison
+
+врата – noun – вход към стая – porte – ouverture pour entrer
+
+прозорец – noun – отвор за светлина – fenêtre – ouverture pour la lumière
+
+легло – noun – място за спане – lit – meuble pour dormir
+
+маса – noun – мебел за хранене – table – meuble pour manger или travailler
+
+стол – noun – мебел за сядане – chaise – meuble pour s'asseoir
+
+кухня – noun – място за готвене – cuisine – pièce pour cuisiner
+
+баня – noun – място за миене – salle de bain – pièce pour se laver
+
+огледало – noun – стъкло за гледане – miroir – verre qui réfléchit l'image
+
+ключ – noun – предмет за отваряне – clé – objet pour ouvrir une serrure
+
+телефон – noun – устройство за връзка – téléphone – appareil pour communiquer
+
+дрехи – noun – неща за обличане – vêtements – ce qu'on porte sur soi
+
+обувки – noun – за краката – chaussures – ce qu'on porte aux pieds
+
+часовник – noun – мери времето – horloge – instrument qui mesure le temps
+
+храна – noun – ядене – nourriture – ce que l'on mange
+
+вода – noun – течност за пиене – eau – liquide pour boire
+
+хляб – noun – тестена храна – pain – aliment à base de farine
+
+мляко – noun – бяла течност – lait – liquide blanc nutritif
+
+захар – noun – сладка подправка – sucre – substance douce
+
+🧑 ЧОВЕК И СЕМЕЙСТВО / L'HOMME ET LA FAMILLE
+човек – noun – личност – homme/humain – un être humain
+
+мъж – noun – възрастен мъж – homme – un adulte mâle
+
+жена – noun – възрастна женска – femme – une adulte femelle
+
+дете – noun – малък човек – enfant – une jeune personne
+
+бебе – noun – съвсем малко дете – bébé – un très jeune enfant
+
+семейство – noun – група роднини – famille – groupe de parents
+
+майка – noun – жена родител – mère – parent femelle
+
+баща – noun – мъж родител – père – parent mâle
+
+брат – noun – момче от семейството – frère – garçon né des mêmes parents
+
+сестра – noun – момиче от семейството – sœur – fille née des mêmes parents
+
+баба – noun – майка на родител – grand-mère – mère d'un parent
+
+дядо – noun – баща на родител – grand-père – père d'un parent
+
+приятел – noun – близък човек – ami – personne proche
+
+глава – noun – част от тялото – tête – partie supérieure du corps
+
+ръка – noun – крайник за работа – main/bras – membre pour toucher/saisir
+
+крак – noun – крайник за ходене – jambe/pied – membre pour marcher
+
+око – noun – за виждане – œil – organe de la vue
+
+ухо – noun – за чуване – oreille – organe de l'ouïe
+
+сърце – noun – орган на живота – cœur – organe qui pompe le sang
+
+име – noun – как се казваш – nom – comment on appelle quelqu'un
+
+⚙️ ГЛАГОЛИ (ДЕЙСТВИЯ) / VERBES (ACTIONS)
+съм – verb – съществувам – être – exister
+
+имам – verb – притежавам – avoir – posséder quelque chose
+
+правя – verb – извършвам нещо – faire – accomplir une action
+
+уча – verb – усвоявам знания – apprendre – acquérir des connaissances
+
+чета – verb – разглеждам текст – lire – déchiffrer un texte
+
+пиша – verb – изписвам думи – écrire – tracer des caractères
+
+говоря – verb – казвам мисли – parler – exprimer par la voix
+
+яде – verb – приема храна – manger – consommer de la nourriture
+
+пия – verb – приема течност – boire – avaler un liquide
+
+спя – verb – почивам – dormir – se reposer la nuit
+
+ходя – verb – вървя – marcher – se déplacer à pied
+
+тичам – verb – бягам бързо – courir – aller très vite à pied
+
+играя – verb – забавлявам се – jouer – s'amuser
+
+работя – verb – извършвам труд – travailler – exercer une activité
+
+обичам – verb – изпитвам любов – aimer – éprouver de l'affection
+
+харесвам – verb – допада ми – apprécier – trouver agréable
+
+мразя – verb – не обичам силно – haïr – détester intensément
+
+мисля – verb – използвам ума – penser – réfléchir
+
+зная – verb – имам информация – savoir – posséder un savoir
+
+разбирам – verb – схващам смисъла – comprendre – saisir le sens
+
+виждам – verb – гледам с очите – voir – percevoir par la vue
+
+чувам – verb – възприемам звук – entendre – percevoir par l'ouïe
+
+купувам – verb – плащам за нещо – acheter – acquérir contre paiement
+
+идвам – verb – приближавам се – venir – arriver ici
+
+отивам – verb – тръгвам нанякъде – aller – se déplacer vers un lieu
+
+давам – verb – предоставям – donner – offrir à quelqu'un
+
+вземам – verb – хващам нещо – prendre – saisir quelque chose
+
+помагам – verb – съдействам – aider – apporter son secours
+
+питам – verb – търся отговор – demander – poser une question
+
+отговарям – verb – давам информация – répondre – donner une réponse
+
+🎨 ПРИЛАГАТЕЛНИ ИМЕНА / ADJECTIFS
+хубав – adj – красив – beau – agréable à regarder
+
+голям – adj – обемен – grand – de taille importante
+
+малък – adj – не голям – petit – de taille réduite
+
+нов – adj – скорошен – nouveau – récent
+
+стар – adj – на много години – vieux – âgé ou ancien
+
+добър – adj – мил и полезен – bon/gentil – de qualité positive
+
+лош – adj – зъл и вреден – mauvais/méchant – de qualité négative
+
+топъл – adj – с висока температура – chaud – température élevée
+
+студен – adj – с ниска температура – froid – température basse
+
+бърз – adj – със скорост – rapide – qui va vite
+
+бавен – adj – без скорост – lent – qui ne va pas vite
+
+висок – adj – нагоре – haut/grand – de grande taille verticale
+
+нисък – adj – надолу – bas/petit – de petite taille verticale
+
+силен – adj – с мощ – fort – qui има de la puissance
+
+слаб – adj – без мощ – faible – qui manque de force
+
+чист – adj – без боклук – propre – sans saleté
+
+мръсен – adj – с боклук – sale – avec de la saleté
+
+весел – adj – радостен – joyeux – de bonne humeur
+
+тъжен – adj – скръбен – triste – malheureux
+
+умен – adj – интелигентен – intelligent – qui a de l'esprit
+
+бял – adj – светъл цвят – blanc – couleur de la neige
+
+черен – adj – тъмен цвят – noir – couleur de la nuit
+
+червен – adj – цвят на кръв – rouge – couleur vive
+
+син – adj – цвят на небе – bleu – couleur du ciel
+
+зелен – adj – цвят на трева – vert – couleur des plantes
+
+🌍 СВЯТ И ПРИРОДА / LE MONDE ET LA NATURE
+земя – noun – нашата планета – terre – notre planète
+
+слънце – noun – звездата ни – soleil – astre qui nous éclaire
+
+небе – noun – над нас – ciel – espace au-dessus de la terre
+
+луна – noun – свети нощем – lune – satellite de la terre
+
+звезда – noun – светеща точка – étoile – point lumineux dans le ciel
+
+вода – noun – течност – eau – liquide vital
+
+огън – noun – гори – feu – combustion dégageant de la chaleur
+
+въздух – noun – дишаме го – air – gaz que nous respirons
+
+дърво – noun – голямо растение – arbre – grande plante avec un tronc
+
+цвете – noun – красиво растение – fleur – partie colorée d'une plante
+
+планина – noun – високо място – montagne – grande élévation de terrain
+
+море – noun – солена вода – mer – vaste étendue d'eau salée
+
+река – noun – течаща вода – rivière – cours d'eau
+
+животно – noun – живо същество – animal – être vivant non humain
+
+куче – noun – домашен любимец – chien – animal domestique fidèle
+
+котка – noun – малко животно – chat – petit animal domestique
+
+птица – noun – лети в небето – oiseau – animal avec des plumes
+
+време – noun – тече винаги – temps – durée ou météo
+
+ден – noun – светло време – jour – période de lumière
+
+нощ – noun – тъмно време – nuit – période d'obscurité
+
+🕒 НАРЕЧИЯ И МЕСТОИМЕНИЯ / ADVERBES ET PRONOMS
+тук – adv – на това място – ici – à cet endroit
+
+там – adv – на друго място – là-bas – à cet autre endroit
+
+сега – adv – днес, в момента – maintenant – au moment présent
+
+преди – adv – в миналото – avant – à un moment antérieur
+
+после – adv – в бъдещето – après – à un moment ultérieur
+
+винаги – adv – по всяко време – toujours – en tout temps
+
+никога – adv – в никое време – jamais – à aucun moment
+
+често – adv – много пъти – souvent – fréquemment
+
+рядко – adv – малко пъти – rarement – peu de fois
+
+бързо – adv – със скорост – vite – avec rapidité
+
+бавно – adv – без скорост – lentement – à petite vitesse
+
+добре – adv – правилно – bien – d'une manière satisfaisante
+
+зле – adv – неправилно – mal – d'une manière insatisfaisante
+
+много – adv – голямо количество – beaucoup – en grande quantité
+
+малко – adv – малко количество – peu – en petite quantité
+
+аз – pron – първо лице – je – la personne qui parle
+
+ти – pron – второ лице – tu – la personne à qui on parle
+
+той – pron – трето лице (м) – il – un homme/objet mâle
+
+тя – pron – трето лице (ж) – elle – une femme/objet femelle
+
+то – pron – трето лице (ср) – il (neutre) – chose neutre
+ПРОФЕСИИ И РАБОТА / MÉTIERS ET TRAVAIL
+лекар – noun – лекува болни хора – médecin – soigne les malades
+
+зъболекар – noun – лекува зъбите – dentiste – soigne les dents
+
+полицай – noun – пази реда – policier – maintient l'ordre
+
+пожарникар – noun – гаси пожари – pompier – éteint les incendies
+
+готвач – noun – приготвя храна – cuisinier – prépare les repas
+
+шофьор – noun – кара превозно средство – chauffeur – conduit un véhicule
+
+продавач – noun – продава стоки – vendeur – vend des produits
+
+инженер – noun – проектира машини – ingénieur – conçoit des machines/systèmes
+
+художник – noun – рисува картини – peintre – crée des tableaux
+
+музикант – noun – свири на инструмент – musicien – joue de la musique
+
+писател – noun – пише книги – écrivain – écrit des livres
+
+актьор – noun – играе във филми – acteur – joue dans des films/théâtre
+
+фермер – noun – работи на земята – fermier – travaille dans une ferme
+
+певец – noun – пее песни – chanteur – interprète des chansons
+
+директор – noun – ръководи организация – directeur – dirige une organisation
+
+🏛️ ГРАД И ТРАНСПОРТ / VILLE ET TRANSPORT
+улица – noun – път в града – rue – voie dans une ville
+
+площад – noun – открито място в центъра – place – espace ouvert au centre-ville
+
+сграда – noun – голяма постройка – bâtiment – une grande construction
+
+магазин – noun – място за пазаруване – magasin – lieu pour acheter des choses
+
+аптека – noun – място за лекарства – pharmacie – lieu pour acheter des médicaments
+
+болница – noun – място за лечение – hôpital – lieu de soins médicaux
+
+парк – noun – място с дървета за почивка – parc – espace vert pour se détendre
+
+ресторант – noun – място за хранене навън – restaurant – lieu pour manger dehors
+
+хотел – noun – място за нощуване – hôtel – lieu pour dormir en voyage
+
+кола – noun – автомобил – voiture – véhicule automobile
+
+автобус – noun – голяма кола за хора – bus – grand véhicule de transport public
+
+влак – noun – транспорт по релси – train – transport sur rails
+
+самолет – noun – лети в небето – avion – véhicule qui vole
+
+колело – noun – велосипед – vélo – véhicule à deux roues
+
+кораб – noun – транспорт в морето – bateau – transport sur l'eau
+
+път – noun – място за движение – route – voie de circulation
+
+мост – noun – преминава над река – pont – construction au-dessus d'une rivière
+
+летище – noun – място за самолети – aéroport – lieu pour les avions
+
+гара – noun – място за влакове – gare – lieu pour les trains
+
+светофар – noun – регулира движението – feu de signalisation – règle la circulation
+
+📅 ВРЕМЕ И КАЛЕНДАР / LE TEMPS ET LE CALENDRIER
+седмица – noun – седем дни – semaine – période de sept jours
+
+месец – noun – около 30 дни – mois – période d'environ 30 jours
+
+година – noun – 12 месеца – année – période de 12 mois
+
+понеделник – noun – първи ден – lundi – premier jour
+
+вторник – noun – втори ден – mardi – deuxième jour
+
+сряда – noun – трети ден – mercredi – troisième jour
+
+четвъртък – noun – четвърти ден – jeudi – quatrième jour
+
+петък – noun – пети ден – vendredi – cinquième jour
+
+събота – noun – шести ден – samedi – sixième jour
+
+неделя – noun – седми ден – dimanche – septième jour
+
+пролет – noun – сезонът на цветята – printemps – saison des fleurs
+
+лято – noun – горещият сезон – été – saison chaude
+
+есен – noun – когато падат листата – automne – quand les feuilles tombent
+
+зима – noun – студеният сезон – hiver – saison froide
+
+час – noun – 60 минути – heure – soixante minutes
+
+минута – noun – 60 секунди – minute – soixante secondes
+
+сутрин – noun – начало на деня – matin – début de la journée
+
+вечер – noun – край на деня – soir – fin de la journée
+
+обед – noun – средата на деня – midi – milieu de la journée
+
+празник – noun – специален почивен ден – fête – jour spécial de célébration
+
+📱 ТЕХНОЛОГИИ И КОМУНИКАЦИЯ / TECHNOLOGIE ET COMMUNICATION
+интернет – noun – световна мрежа – internet – réseau mondial
+
+екран – noun – повърхност за картина – écran – surface d'affichage
+
+мишка – noun – устройство за компютър – souris – dispositif de pointage
+
+клавиатура – noun – копчета за писане – clavier – touches pour écrire
+
+парола – noun – тайна дума – mot de passe – mot secret de sécurité
+
+сайт – noun – място в интернет – site web – page sur internet
+
+съобщение – noun – написана информация – message – information écrite
+
+батерия – noun – дава енергия – batterie – source d'énergie
+
+камера – noun – прави снимки – caméra – appareil pour prendre des photos/vidéos
+
+телевизор – noun – кутия за предавания – télévision – appareil pour regarder des émissions
+
+✨ АБСТРАКТНИ ПОНЯТИЯ / NOTIONS ABSTRAITES
+живот – noun – съществуване – vie – existence
+
+смърт – noun – край на живота – mort – fin de la vie
+
+свобода – noun – липса на ограничения – liberté – absence de contraintes
+
+мир – noun – липса на война – paix – absence de guerre
+
+истина – noun – нещо вярно – vérité – chose vraie
+
+лъжа – noun – нещо невярно – mensonge – chose fausse
+
+сила – noun – мощност – force – puissance physique или morale
+
+ум – noun – способност за мислене – esprit/intelligence – capacité de réflexion
+
+красота – noun – хубав външен вид – beauté – apparence agréable
+
+късмет – noun – щастлив случай – chance – événement favorable
+
+мечта – noun – голямо желание – rêve – un grand désir
+
+здраве – noun – добро състояние на тялото – santé – bon état du corps
+
+опасност – noun – заплаха – danger – menace pour la sécurité
+
+помощ – noun – подкрепа – aide – soutien à quelqu'un
+
+знание – noun – научени неща – connaissance – choses apprises
+
+🔢 ЧИСЛА И КОЛИЧЕСТВА / NOMBRES ET QUANTITÉS
+нула – number – 0 – zéro – chiffre nul
+
+сто – number – 100 – cent – dix fois dix
+
+хиляда – number – 1000 – mille – dix fois cent
+
+първи – adj – най-отпред – premier – avant tous les autres
+
+последен – adj – най-отзад – dernier – après tous les autres
+
+половина – noun – една от две части – moitié – une de deux parties égales
+
+целият – adj – всичко – entier – la totalité
+
+повече – adv – по-голямо количество – plus – une quantité supérieure
+
+по-малко – adv – по-ниско количество – moins – une quantité inférieure
+
+равно – adj – еднакво – égal – identique en valeur
+ПЛОДОВЕ И ЗЕЛЕНЧУЦИ / FRUITS ET LÉGUMES
+банан – noun – дълъг жълт плод – banane – fruit jaune et allongé
+
+портокал – noun – оранжев цитрусов плод – orange – fruit citrique de couleur orange
+
+лимон – noun – кисел жълт плод – citron – fruit jaune et acide
+
+грозде – noun – малки плодове на чепка – raisin – petits fruits en grappe
+
+ягода – noun – малък червен сладък плод – fraise – petit fruit rouge et sucré
+
+картоф – noun – зеленчук, който расте в земята – pomme de terre – légume qui pousse sous terre
+
+домат – noun – червен мек зеленчук – tomate – légume rouge et tendre
+
+краставица – noun – дълъг зелен зеленчук – concombre – légume vert et allongé
+
+лук – noun – лютив зеленчук за готвене – oignon – légume piquant pour cuisiner
+
+морков – noun – оранжев корен за ядене – carotte – racine orange comestible
+
+🌈 ЦВЕТОВЕ / COULEURS
+сив – adj – цвят между бяло и черно – gris – couleur entre le blanc et le noir
+
+оранжев – adj – цвят на портокал – orange – couleur du fruit orange
+
+розов – adj – светъл червен цвят – rose – couleur rouge clair
+
+лилав – adj – цвят на теменужка – violet – couleur de la violette
+
+златен – adj – цвят на злато – doré – couleur de l'or
+
+сребърен – adj – цвят на сребро – argenté – couleur de l'argent
+
+светъл – adj – с много светлина – clair – avec beaucoup de lumière
+
+тъмен – adj – с малко светлина – foncé – avec peu de lumière
+
+пъстър – adj – с много цветове – coloré/multicolore – avec beaucoup de couleurs
+
+👕 ОБЛЕКЛО / VÊTEMENTS
+риза – noun – дреха с копчета и яка – chemise – vêtement avec boutons et col
+
+тениска – noun – лека лятна дреха – t-shirt – vêtement léger d'été
+
+панталон – noun – дреха за краката – pantalon – vêtement pour les jambes
+
+рокля – noun – женска дреха – robe – vêtement féminin
+
+яке – noun – връхна дреха за студ – veste – vêtement de dessus pour le froid
+
+палто – noun – дълга зимна дреха – manteau – long vêtement d'hiver
+
+шапка – noun – за главата – chapeau/bonnet – accessoire pour la tête
+
+ръкавици – noun – за ръцете при студ – gants – accessoires pour les mains
+
+чорапи – noun – под обувките – chaussettes – vêtements portés sous les chaussures
+
+колан – noun – държи панталона – ceinture – accessoire pour tenir le pantalon
+
+🦷 ОЩЕ ЧАСТИ НА ТЯЛОТО / AUTRES PARTIES DU CORPS
+зъб – noun – за дъвчене в устата – dent – organe pour mâcher
+
+език – noun – за вкус и говорене – langue – organe pour goûter et parler
+
+коса – noun – върху главата – cheveux – poils sur la tête
+
+кост – noun – твърда част на скелета – os – partie dure du squelette
+
+кръв – noun – червена течност в тялото – sang – liquide rouge dans le corps
+
+гръб – noun – задна част на тялото – dos – partie postérieure du corps
+
+корем – noun – предна част под гърдите – ventre – partie avant sous la poitrine
+
+пръст – noun – част от ръката или крака – doigt – extrémité de la main ou du pied
+
+🏃 ОЩЕ ВАЖНИ ГЛАГОЛИ / AUTRES VERBES IMPORTANTS
+забравям – verb – не помня нещо – oublier – ne pas se souvenir
+
+помня – verb – пазя в съзнанието – se souvenir – garder en mémoire
+
+започвам – verb – поставям начало – commencer – mettre un début à quelque chose
+
+свършвам – verb – завършвам действие – finir – terminer une action
+
+отварям – verb – правя достъпно – ouvrir – rendre accessible
+
+затварям – verb – спирам достъпа – fermer – bloquer l'accès
+
+намирам – verb – откривам нещо изгубено – trouver – découvrir ce qui était perdu
+
+губя – verb – лишавам се от нещо – perdre – ne plus avoir quelque chose
+
+смея се – verb – показвам радост – rire – exprimer la joie
+
+плача – verb – отделям сълзи – pleurer – verser des larmes
+
+пътувам – verb – движа се надалеч – voyager – se déplacer loin
+
+печеля – verb – получавам награда – gagner – remporter un prix ou de l'argent
+
+плащам – verb – давам пари за нещо – payer – donner de l'argent pour un bien
+
+надявам се – verb – вярвам в доброто – espérer – croire en un futur positif
+
+обещавам – verb – давам дума – promettre – donner sa parole
+
+избирам – verb – посочвам едно от много – choisir – sélectionner un parmi plusieurs
+
+сменям – verb – правя промяна – changer – effectuer une modification
+
+използвам – verb – си служа с нещо – utiliser – se servir de quelque chose
+
+🏔️ ГЕОГРАФИЯ И ПРИРОДА / GÉOGRAPHIE ET NATURE
+държава – noun – политическа територия – pays – territoire politique
+
+град – noun – голямо населено място – ville – grande agglomération
+
+село – noun – малко населено място – village – petite agglomération
+
+остров – noun – земя в морето – île – terre entourée d'eau
+
+пясък – noun – малки камъчета на плажа – sable – petits grains sur la plage
+
+вълна – noun – движение на водата – vague – mouvement de l'eau
+
+гора – noun – много дървета на едно място – forêt – beaucoup d'arbres ensemble
+
+езеро – noun – затворена вода – lac – étendue d'eau fermée
+
+долина – noun – ниско място между планини – vallée – espace bas entre les montagnes
+
+пещера – noun – дупка в скала – grotte – cavité dans un rocher
+
+❓ ВЪПРОСИТЕЛНИ ДУМИ / MOTS INTERROGATIFS
+колко – adv – за количество – combien – pour la quantité
+
+какъв – pron – за качество – quel – pour la qualité
+
+чий – pron – за притежание – à qui – pour la possession
+
+🔗 СВЪРЗВАЩИ ДУМИ / MOTS DE LIAISON
+защото – conj – обяснява причина – parce que – explique la raison
+
+когато – conj – определя време – quand – définit le temps
+
+ако – conj – условие – si – exprime une condition
+
+въпреки че – conj – противопоставяне – bien que – exprime l'opposition
+
+така че – conj – резултат – donc/ainsi – exprime le résultat
+
+може би – adv – вероятност – peut-être – exprime la probabilité
+
+разбира се – adv – сигурност – bien sûr – exprime la certitude
+ЖИВОТНИ И НАСЕКОМИ / ANIMAUX ET INSECTES
+лъв – noun – царят на животните – lion – le roi des animaux
+
+вълк – noun – диво куче от гората – loup – chien sauvage de la forêt
+
+мечка – noun – голямо кафяво животно – ours – grand animal brun
+
+лисица – noun – хитро оранжево животно – renard – animal orange et rusé
+
+заек – noun – дългоухо животно – lapin – animal aux longues oreilles
+
+кобила/кон – noun – животно за яздене – cheval – animal pour l'équitation
+
+прасе – noun – розово домашно животно – cochon – animal domestique rose
+
+овца – noun – дава вълна – mouton – animal qui donne de la laine
+
+змия – noun – влечуго без крака – serpent – reptile sans pattes
+
+риба – noun – живее във водата – poisson – vit dans l'eau
+
+пчела – noun – прави мед – abeille – insecte qui fait du miel
+
+пеперуда – noun – красиво насекомо – papillon – bel insecte ailé
+
+паяк – noun – прави мрежа – araignée – insecte qui tisse une toile
+
+муха – noun – досадно насекомо – mouche – insecte volant gênant
+
+комар – noun – пие кръв – moustique – insecte qui pique
+
+🍽️ ПРИБОРИ И КУХНЯ / USTENSILES ET CUISINE
+чиния – noun – съд за храна – assiette – récipient plat pour manger
+
+вилица – noun – прибор с бодли – fourchette – ustensile pour piquer
+
+нож – noun – прибор за рязане – couteau – ustensile pour couper
+
+лъжица – noun – прибор за течна храна – cuillère – ustensile pour liquide
+
+тенджера – noun – съд за готвене – casserole/faitout – récipient pour cuisiner
+
+тиган – noun – за пържене – poêle – récipient pour frire
+
+печка – noun – уред за топлене и готвене – cuisinière/four – appareil pour chauffer
+
+хладилник – noun – държи храната студена – réfrigérateur – garde les aliments au froid
+
+чаша – noun – за пиене – verre/tasse – récipient pour boire
+
+салфетка – noun – за бърсане при ядене – serviette – papier/tissu pour s'essuyer
+
+🛋️ МЕБЕЛИ И ПРЕДМЕТИ / MEUBLES ET OBJETS
+диван – noun – меко място за сядане – canapé – siège long et confortable
+
+килим – noun – постелка на пода – tapis – revêtement de sol décoratif
+
+шкаф – noun – място за багаж – armoire – meuble de rangement
+
+лампа – noun – дава изкуствена светлина – lampe – appareil qui éclaire
+
+картина – noun – украса за стена – tableau – décoration murale
+
+възглавница – noun – за главата в леглото – oreiller – coussin pour dormir
+
+одеяло – noun – завивка за топлене – couverture – tissu pour se couvrir
+
+кошче – noun – съд за отпадъци – poubelle – récipient pour les déchets
+
+сапун – noun – средство за миене – savon – produit pour se laver
+
+кърпа – noun – за подсушаване – serviette de bain – tissu pour s'essuyer le corps
+
+🧱 МАТЕРИАЛИ / MATÉRIAUX
+дърво – noun – твърд материал от растения – bois – matière dure végétale
+
+желязо/метал – noun – здрав тежък материал – fer/métal – matière solide et lourde
+
+пластмаса – noun – изкуствен материал – plastique – matière synthétique
+
+стъкло – noun – прозрачен чуплив материал – verre – matière transparente fragile
+
+хартия – noun – за писане и рисуване – papier – support pour l'écriture
+
+камък – noun – твърд естествен материал – pierre – matière naturelle dure
+
+злато – noun – скъп жълт метал – or – métal précieux jaune
+
+памук – noun – мек естествен материал – coton – fibre végétale douce
+
+❤️ ЕМОЦИИ И ЧУВСТВА / ÉMOTIONS ET SENTIMENTS
+радост – noun – щастливо чувство – joie – sentiment de bonheur
+
+тъга – noun – мъка – tristesse – sentiment de chagrin
+
+гняв – noun – силно ядосване – colère – fort mécontentement
+
+страх – noun – усещане за опасност – peur – sentiment d'insécurité
+
+скука – noun – липса на интерес – ennui – manque d'intérêt
+
+изненада – noun – неочаквано събитие – surprise – événement inattendu
+
+срам – noun – неудобно чувство – honte – sentiment d'humiliation
+
+надежда – noun – вяра в доброто – espoir – attente confiante
+
+умора – noun – нужда от сън – fatigue – besoin de repos
+
+глад – noun – нужда от храна – faim – besoin de manger
+
+жажда – noun – нужда от вода – soif – besoin de boire
+
+болка – noun – лошо физическо усещане – douleur – sensation physique pénible
+
+🛠️ ИНСТРУМЕНТИ И ДЕЙСТВИЯ / OUTILS ET ACTIONS
+чук – noun – за забиване – marteau – outil pour frapper
+
+ножица – noun – за рязане на хартия – ciseaux – outil pour couper du papier
+
+лепило – noun – за залепване – colle – produit pour fixer
+
+поправям – verb – правя нещо пак здраво – réparer – remettre en état
+
+чупя – verb – развалям целостта – casser – briser quelque chose
+
+чистя – verb – махам мръсотията – nettoyer – enlever la saleté
+
+мия – verb – чистя с вода – laver – nettoyer avec de l'eau
+
+готвя – verb – правя ястие – cuisiner – préparer à manger
+
+пека – verb – готвя във фурна – cuire au four – préparer par la chaleur
+
+пържа – verb – готвя в мазнина – frire – cuire dans l'huile
+СПОРТ И ИГРИ / SPORT ET JEUX
+футбол – noun – игра с топка и крака – football – jeu de ballon au pied
+
+баскетбол – noun – игра с топка и кош – basket-ball – jeu de ballon au panier
+
+волейбол – noun – игра с мрежа и топка – volley-ball – jeu de ballon au filet
+
+тенис – noun – игра с ракети – tennis – jeu de raquette
+
+плуване – noun – движение във вода – natation – action de nager
+
+бягане – noun – лека атлетика – course – action de courir
+
+ски – noun – спорт върху сняг – ski – sport de glisse sur neige
+
+колоездене – noun – каране на колело – cyclisme – sport à bicyclette
+
+бокс – noun – бой с ръкавици – boxe – sport de combat avec gants
+
+гимнастика – noun – упражнения за тялото – gymnastique – exercices physiques
+
+шах – noun – логическа игра на дъска – échecs – jeu de stratégie sur plateau
+
+отбор – noun – група спортисти – équipe – groupe de sportifs
+
+мач – noun – спортно състезание – match – compétition sportive
+
+треньор – noun – учител по спорт – entraîneur – professeur de sport
+
+стадион – noun – място за спорт – stade – lieu pour le sport
+
+топка – noun – кръгъл предмет за игра – ballon/balle – objet rond pour jouer
+
+победа – noun – успех в състезание – victoire – succès lors d'une lutte
+
+загуба – noun – неуспех в игра – défaite – échec lors d'une lutte
+
+тренировка – noun – упражняване за спорт – entraînement – exercice préparatoire
+
+съдия – noun – следи правилата – arbitre – celui qui fait respecter les règles
+
+👨‍⚕️ ОЩЕ ПРОФЕСИИ И СПЕЦИАЛИСТИ / AUTRES MÉTIERS ET SPÉCIALISTES
+архитект – noun – чертае сгради – architecte – conçoit des bâtiments
+
+адвокат – noun – защитава хора в съда – avocat – défend des personnes en justice
+
+учен – noun – занимава се с наука – scientifique – personne qui fait de la science
+
+журналист – noun – пише новини – journaliste – personne qui rapporte les nouvelles
+
+фотограф – noun – прави снимки – photographe – personne qui prend des photos
+
+програмист – noun – пише компютърен код – programmeur – écrit du code informatique
+
+бизнесмен – noun – занимава се с бизнес – homme d'affaires – personne dans le commerce
+
+фризьор – noun – подстригва коса – coiffeur – coupe les cheveux
+
+механик – noun – поправя машини – mécanicien – répare les machines
+
+електротехник – noun – поправя електричество – électricien – répare l'électricité
+
+градинар – noun – грижи се за цветя – jardinier – s'occupe des jardins
+
+сервитьор – noun – носи храна в ресторант – serveur – apporte les plats au restaurant
+
+пилот – noun – управлява самолет – pilote – conduit un avion
+
+космонавт – noun – лети в космоса – astronaute – voyage dans l'espace
+
+модел – noun – показва дрехи – mannequin – présente des vêtements
+
+преводач – noun – превежда езици – traducteur – transpose d'une langue à l'autre
+
+библиотекар – noun – работи с книги – bibliothécaire – gère une bibliothèque
+
+ветеринар – noun – лекува животни – vétérinaire – soigne les animaux
+
+аптекар – noun – продава лекарства – pharmacien – vend des médicaments
+
+войник – noun – служи в армията – soldat – membre d'une armée
+
+🎸 МУЗИКАЛНИ ИНСТРУМЕНТИ / INSTRUMENTS DE MUSIQUE
+пиано – noun – голям инструмент с клавиши – piano – grand instrument à touches
+
+китара – noun – инструмент със струни – guitare – instrument à cordes
+
+цигулка – noun – малък струнен инструмент – violon – petit instrument à cordes
+
+барабани – noun – ударен инструмент – batterie – instrument de percussion
+
+флейта – noun – духови инструмент – flûte – instrument à vent
+
+песен – noun – музика с думи – chanson – musique avec paroles
+
+глас – noun – звук от човека – voix – son produit par l'humain
+
+концерт – noun – музикално събитие – concert – événement musical
+
+ритъм – noun – темпото на музиката – rythme – cadence de la musique
+
+мелодия – noun – последователност от тонове – mélodie – suite de sons musicaux
+
+🚀 КОСМОС И ВСЕЛЕНА / ESPACE ET UNIVERS
+космос – noun – всичко извън Земята – espace – l'univers au-delà de la Terre
+
+планета – noun – голямо тяло в космоса – planète – grand corps céleste
+
+комета – noun – ледено тяло с опашка – comète – corps de glace avec une traînée
+
+ракета – noun – превоз за космоса – fusée – véhicule spatial
+
+телескоп – noun – уред за гледане на звезди – télescope – instrument pour voir les astres
+
+гравитация – noun – сила на привличане – gravité – force d'attraction
+
+галактика – noun – система от звезди – galaxie – vaste système d'étoiles
+
+извънземен – noun – същество от друга планета – extraterrestre – être d'une autre planète
+
+слънчева система – noun – Слънцето и планетите – système solaire – le Soleil et ses planètes
+
+атмосфера – noun – слой въздух около планета – atmosphère – couche d'air autour d'une planète
+
+🎭 ХАРАКТЕР И КАЧЕСТВА / CARACTÈRE ET QUALITÉS
+смел – adj – който няма страх – courageux – qui n'a pas peur
+
+честен – adj – който казва истината – honnête – qui dit la vérité
+
+любезен – adj – който е мил – aimable – qui est gentil
+
+мързелив – adj – който не иска да работи – paresseux – qui n'aime pas travailler
+
+работлив – adj – който работи много – travailleur – qui travaille beaucoup
+
+тих – adj – който не прави шум – calme/silencieux – qui ne fait pas de bruit
+
+шумен – adj – който прави много шум – bruyant – qui fait beaucoup de bruit
+
+егоист – noun – мисли само за себе си – égoïste – ne pense qu'à soi
+
+щедър – adj – който дава много – généreux – qui donne beaucoup
+
+търпелив – adj – който може да чака – patient – qui sait attendre
+
+вежлив – adj – с добри обноски – poli – qui a de bonnes manières
+
+сериозен – adj – който не е шегаджия – sérieux – qui n'est pas plaisantin
+
+забавен – adj – който те кара да се смееш – amusant – qui fait rire
+
+странен – adj – необичаен – étrange – inhabituel
+
+важен – adj – със значение – important – qui a de la valeur
+
+📦 ПРЕДМЕТИ В ОФИСА И УЧИЛИЩЕТО / OBJETS AU BUREAU ET À L'ÉCOLE
+гума – noun – за триене на молив – gomme – pour effacer le crayon
+
+линийка – noun – за чертане на линии – règle – pour tracer des traits
+
+раница – noun – чанта за гръб – sac à dos – sac porté sur le dos
+
+папка – noun – за събиране на листове – dossier – pour ranger des feuilles
+
+кламер – noun – държи листовете заедно – trombone – tient les feuilles ensemble
+
+ножица – noun – за рязане – ciseaux – instrument pour couper
+
+принтер – noun – печата на хартия – imprimante – machine pour imprimer
+
+бележник – noun – малка книга за записки – carnet – petit livre de notes
+
+плик – noun – за писмо – enveloppe – pochette pour une lettre
+
+маркер – noun – дебел фулмастер – marqueur – feutre épais
+
+здравей – noun/interj – неформален поздрав – hello – salut
+
+благодаря – verb – изразявам признателност – thank you – merci
+
+моля – verb/interj – учтива молба или отговор – please/you're welcome – s'il vous plaît/de rien
+
+извинете – verb – търся прошка или внимание – excuse me – excusez-moi
+
+да – particle – потвърждение – yes – oui
+
+не – particle – отрицание – no – non
+
+довиждане – noun/interj – поздрав при тръгване – goodbye – au revoir
+
+тоалетна – noun – място за хигиена – toilet – toilettes
+
+вход – noun – място за влизане – entrance – entrée
+
+изход – noun – място за излизане – exit – sortie
+
+пари – noun – средство за плащане – money – argent
+
+карта – noun – изображение на място или банкова карта – map/card – carte
+
+наляво – adv – към лявата страна – to the left – à gauche
+
+надясно – adv – към дясната страна – to the right – à droite
+
+направо – adv – без завой – straight ahead – tout droit
+
+близо – adv – на малко разстояние – near – près
+
+далеч – adv – на голямо разстояние – far – loin
+
+къде – adv – за място – where – où
+
+кога – adv – за време – when – quand
+
+кой – pron – за човек – who – qui
+
+защо – adv – за причина – why – pourquoi
+
+и – conj – добавяне на нещо – and – et
+
+или – conj – избор между две неща – or – ou
+
+но – conj – противопоставяне – but – mais
+
+също – adv – по същия начин – also – aussi

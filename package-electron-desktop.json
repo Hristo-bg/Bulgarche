@@ -1,0 +1,87 @@
+{
+  "name": "bulgarche-desktop",
+  "version": "4.0.0",
+  "description": "Bulgarche Language Learning App - Desktop Version",
+  "author": "Bulgarche",
+  "main": "main-electron-desktop.js",
+  "homepage": "https://bulgarche.com",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build-win": "electron-builder --win",
+    "build-portable": "electron-builder --win portable",
+    "build-installer": "electron-builder --win nsis",
+    "dist": "npm run build",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "build": {
+    "appId": "com.bulgarche.desktop",
+    "productName": "Bulgarche Desktop",
+    "copyright": "Copyright © 2024 Bulgarche",
+    "directories": {
+      "output": "dist-desktop-final"
+    },
+    "files": [
+      "main-electron-desktop.js",
+      "public/**/*",
+      "txt/**/*",
+      "audiofiles/**/*",
+      "icon/**/*",
+      "package.json",
+      "package-electron-desktop.json"
+    ],
+    "extraResources": [
+      {
+        "from": "public",
+        "to": "public"
+      },
+      {
+        "from": "txt",
+        "to": "txt"
+      },
+      {
+        "from": "audiofiles",
+        "to": "audiofiles"
+      },
+      {
+        "from": "icon",
+        "to": "icon"
+      }
+    ],
+    "asar": false,
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        },
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "icon/bulgarche-icon.ico",
+      "sign": false,
+      "publisherName": "Bulgarche"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "allowElevation": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Bulgarche Desktop",
+      "installerIcon": "icon/bulgarche-icon.ico",
+      "uninstallerIcon": "icon/bulgarche-icon.ico"
+    },
+    "portable": {
+      "artifactName": "Bulgarche-Desktop-Portable-${version}.${ext}",
+      "icon": "icon/bulgarche-icon.ico"
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  },
+  "dependencies": {}
+}

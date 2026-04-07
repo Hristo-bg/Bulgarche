@@ -1,0 +1,50 @@
+{
+  "name": "bulgarche-desktop",
+  "version": "4.0.0",
+  "description": "Bulgarche Language Learning App - Desktop Version",
+  "author": "Bulgarche",
+  "main": "main-electron-final.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build-win": "electron-builder --win",
+    "build-all": "electron-builder --win --x64"
+  },
+  "build": {
+    "appId": "com.bulgarche.desktop",
+    "productName": "Bulgarche Desktop",
+    "directories": {
+      "output": "dist-desktop-new"
+    },
+    "files": [
+      "main-electron-final.js",
+      "public/**/*",
+      "txt/**/*",
+      "audiofiles/**/*",
+      "icon/**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "icon/bulgarche-icon.png",
+      "sign": false,
+      "publisherName": null
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    },
+    "compression": "maximum",
+    "removePackageScripts": true
+  },
+  "devDependencies": {
+    "electron": "^40.6.0",
+    "electron-builder": "^26.8.1"
+  }
+}

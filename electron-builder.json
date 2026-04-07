@@ -1,0 +1,59 @@
+{
+  "appId": "com.bulgarche.desktop",
+  "productName": "Bulgarche Desktop",
+  "directories": {
+    "output": "dist-desktop",
+    "buildResources": "icon"
+  },
+  "files": [
+    "main-desktop-simple.js",
+    "public/**/*",
+    "audiofiles/**/*",
+    "txt/**/*",
+    "icon/**/*",
+    "package.json"
+  ],
+  "extraResources": [
+    {
+      "from": "audiofiles",
+      "to": "audiofiles"
+    },
+    {
+      "from": "txt",
+      "to": "txt"
+    },
+    {
+      "from": "icon",
+      "to": "icon"
+    }
+  ],
+  "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": [
+          "x64"
+        ]
+      }
+    ],
+    "icon": "icon/bulgarche-icon.png",
+    "certificateFile": null,
+    "certificatePassword": null,
+    "signingHashAlgorithms": [
+      "sha256"
+    ],
+    "sign": null
+  },
+  "nsis": {
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "shortcutName": "Bulgarche Desktop",
+    "allowElevation": false,
+    "installerIcon": "icon/bulgarche-icon.ico",
+    "uninstallerIcon": "icon/bulgarche-icon.ico",
+    "installerHeaderIcon": "icon/bulgarche-icon.ico",
+    "artifactName": "${productName}-Setup-${version}.${ext}"
+  }
+}

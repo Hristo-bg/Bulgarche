@@ -1,0 +1,49 @@
+{
+  "name": "bulgarche-desktop",
+  "version": "4.0.0",
+  "description": "Bulgarche Desktop",
+  "main": "main-real-desktop.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win",
+    "dist": "electron-builder --win nsis"
+  },
+  "build": {
+    "appId": "com.bulgarche.desktop",
+    "productName": "Bulgarche Desktop",
+    "directories": {
+      "output": "dist-real"
+    },
+    "files": [
+      "main-real-desktop.js",
+      "public/**/*",
+      "txt/**/*",
+      "audiofiles/**/*",
+      "icon/**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "icon/bulgarche-icon.png",
+      "publisherName": "Bulgarche"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "allowElevation": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Bulgarche Desktop",
+      "installerIcon": "icon/bulgarche-icon.png",
+      "uninstallerIcon": "icon/bulgarche-icon.png"
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  }
+}

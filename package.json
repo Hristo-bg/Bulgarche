@@ -1,0 +1,17 @@
+{
+  "name": "bulgarche-desktop",
+  "version": "4.0.0",
+  "description": "Bulgarche Desktop",
+  "main": "main-desktop-simple.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win --publish never",
+    "build:publish": "electron-builder --win",
+    "dev": "electron .",
+    "dist": "electron-builder --win --config electron-builder.json"
+  },
+  "devDependencies": {
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  }
+}
